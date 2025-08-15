@@ -34,6 +34,7 @@ public class QuizApp {
             questionIndex++;
         }
         System.out.println("-----------QUIZ FINISHED-----------");
-        System.out.println("Your total score is:"+score+" out of 50");
+        System.out.println("Your total score is:"+score+"/50");
     }
 }
+
